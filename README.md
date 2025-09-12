@@ -4,14 +4,14 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/marceatmon/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Creating and Resolving Tickets](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/marceatmon/post-install-config)
+  - [osTicket: Creating and Resolving Tickets](https://github.com/marceatmon/ticket-lifecycle)
 - <b>Active Directory</b>
-  - [Active Directory: Installing and Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Active Directory: Creating Network Security Groups with Users](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Active Directory: Installing and Configuring Active Directory within Azure VMs](https://github.com/marceatmon/configure-ad)
+  - [Active Directory: Creating Network Security Groups with Users](https://github.com/marceatmon/azure-network-protocols)
 - <b>DNS</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marceatmon/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marceatmon/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
