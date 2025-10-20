@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/marceatmon/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/marceatmon/post-install-config)
-  - [osTicket: Creating and Resolving Tickets](https://github.com/marceatmon/ticket-lifecycle)
+  - [osTicket - Ticket Lifecycle: Intake Through Resolution](https://github.com/marceatmon/ticket-lifecycle)
 - <b>Active Directory</b>
   - [Active Directory: Installing and Configuring Active Directory within Azure VMs](https://github.com/marceatmon/configure-ad)
   - [Active Directory: Creating Network Security Groups with Users](https://github.com/marceatmon/azure-network-protocols)
